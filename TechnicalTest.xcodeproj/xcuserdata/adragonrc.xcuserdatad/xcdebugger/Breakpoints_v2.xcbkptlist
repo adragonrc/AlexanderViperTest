@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "16E36F54-9BCB-432B-B80F-DE11723E3F05"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FC2DE65-CF0F-4896-BC60-0EAAA1754200"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalTest/Modules/CountryDetail/CountryDetailInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getImage(url:success:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "8FC2DE65-CF0F-4896-BC60-0EAAA1754200 - 3f3390c350667e13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in TechnicalTest.CountryDetailInteractor.getImage(url: Swift.String, success: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "TechnicalTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adragonrc/Developer/iOS/Viper/TechnicalTest/TechnicalTest/Modules/CountryDetail/CountryDetailInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "8FC2DE65-CF0F-4896-BC60-0EAAA1754200 - 3f3390c350667e13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in TechnicalTest.CountryDetailInteractor.getImage(url: Swift.String, success: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "TechnicalTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adragonrc/Developer/iOS/Viper/TechnicalTest/TechnicalTest/Modules/CountryDetail/CountryDetailInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "8FC2DE65-CF0F-4896-BC60-0EAAA1754200 - fcfbde05afda2e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in TechnicalTest.CountryDetailInteractor.getImage(url: Swift.String, success: (Swift.Optional&lt;__C.UIImage&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TechnicalTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adragonrc/Developer/iOS/Viper/TechnicalTest/TechnicalTest/Modules/CountryDetail/CountryDetailInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07C10D00-AFE4-4162-8C76-805FCC008542"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalTest/Model/Repository/Repository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getDetail(name:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D1BFD83-597A-4879-A4EC-2AAE0CDB4734"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalTest/Model/Repository/Repository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getDetail(name:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
